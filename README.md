@@ -1,2 +1,2 @@
-## Trò chơi ô chữ
+### Trò chơi ô chữ
 ### Bài tập môn C#
