@@ -1,0 +1,10 @@
+C:\Users\vy.le21\source\repos\trochoiochu\trochoiochu\bin\Debug\trochoiochu.exe.config
+C:\Users\vy.le21\source\repos\trochoiochu\trochoiochu\bin\Debug\trochoiochu.exe
+C:\Users\vy.le21\source\repos\trochoiochu\trochoiochu\bin\Debug\trochoiochu.pdb
+C:\Users\vy.le21\source\repos\trochoiochu\trochoiochu\obj\Debug\trochoiochu.csprojAssemblyReference.cache
+C:\Users\vy.le21\source\repos\trochoiochu\trochoiochu\obj\Debug\trochoiochu.Form1.resources
+C:\Users\vy.le21\source\repos\trochoiochu\trochoiochu\obj\Debug\trochoiochu.Properties.Resources.resources
+C:\Users\vy.le21\source\repos\trochoiochu\trochoiochu\obj\Debug\trochoiochu.csproj.GenerateResource.cache
+C:\Users\vy.le21\source\repos\trochoiochu\trochoiochu\obj\Debug\trochoiochu.csproj.CoreCompileInputs.cache
+C:\Users\vy.le21\source\repos\trochoiochu\trochoiochu\obj\Debug\trochoiochu.exe
+C:\Users\vy.le21\source\repos\trochoiochu\trochoiochu\obj\Debug\trochoiochu.pdb
